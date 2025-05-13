@@ -22,7 +22,8 @@ Welcome to the official repository of the **Career Launchpad** – a power-packe
 ## 🗓️ Join the Free Intro Session  
 📅 **Date:** `Sunday, April 24th, 2025`  
 🕘 **Time:** `7:00 PM (IST)`  
-🔗 **Join Link:** [Click to Join Intro Session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDY4YTgyZWItNGVkMy00MDQ5LTkxZjYtYWIxYTRlMzQzMDFj%40thread.v2/0?context=%7b%22Tid%22%3a%22808cc83e-a546-47e7-a03f-73a1ebba24f3%22%2c%22Oid%22%3a%22b989c7b2-a4f9-4506-ada6-5371a8d74452%22%7d)  
+🔗 **Join Link:** [Click to Join Intro Session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTE2N2M3MGItMWNkNS00NmU1LTk3M2UtMmYyNzAxOWJmYTk4%40thread.v2/0?context=%7b%22Tid%22%3a%22808cc83e-a546-47e7-a03f-73a1ebba24f3%22%2c%22Oid%22%3a%22b989c7b2-a4f9-4506-ada6-5371a8d74452%22%7d)  
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTE2N2M3MGItMWNkNS00NmU1LTk3M2UtMmYyNzAxOWJmYTk4%40thread.v2/0?context=%7b%22Tid%22%3a%22808cc83e-a546-47e7-a03f-73a1ebba24f3%22%2c%22Oid%22%3a%22b989c7b2-a4f9-4506-ada6-5371a8d74452%22%7d
 
 ---
 
